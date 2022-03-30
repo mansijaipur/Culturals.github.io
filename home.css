@@ -1,0 +1,97 @@
+.container{
+  position:relative;
+  text-align: center;
+  color: red;
+  background-image: url(https://cdn.pixabay.com/photo/2014/04/02/17/03/freedom-307791_960_720.png);
+  /* background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center; */
+}
+.center{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+}
+/* #heading {
+  font-size: 32px;
+  color: skyblue;
+  padding-bottom: 200px;
+  
+}
+#heading {
+  font-family: cursive;
+  font-weight: bolder;
+  font: bolder;
+  padding-left: 200px;
+  padding-top: 300px;
+  color: rgb(241, 12, 12);
+  /* font-size: 60px; */
+  
+} */
+#apply{
+ background-color: rgb(17, 117, 184);
+ width: 250px;
+ font-size: large;
+ color: white;
+ height: 60px;
+ margin-left: 5%;
+}
+.right{
+ 
+ display: flex;
+}
+/* #span {
+  font-size: 85px;
+  
+  
+} */
+#c3 {
+  font-size: 50px;
+}
+
+/* #image1 {
+  background-image: url(https://cdn.pixabay.com/photo/2014/04/02/17/03/freedom-307791_960_720.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+} */
+.c2 {
+  padding: 10px;
+  background-color: white;
+  float: right;
+  margin-top: -320px;
+  width: 55%;
+  padding: 5%;
+  
+  
+}
+.value {
+  margin-top: 100px;
+}
+#image2 {
+  float: right;
+  width: 70%;
+  height: 450px;
+}
+#after {
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  margin-top: 100px;
+  height: 60%;
+  width: 55%;
+  margin-left: 60px;
+  word-wrap: break-word;
+}
+.c4 {
+  font-size: 20px;
+  color: rgb(54, 50, 50);
+  font-family: "EB Garamond", serif;
+  width: 500px;
+}
+.c41 {
+  padding-right: 40px;
+}
+#value {
+  font-size: 50px;
+}
